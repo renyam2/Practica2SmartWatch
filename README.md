@@ -11,6 +11,7 @@ Reloj inteligente (Smartwatch)
 | `docs/arquitectura.md` | Propuesta arquitectonica completa del sistema |
 | `docs/diagramas.md` | Diagramas del modelo arquitectonico (Mermaid) |
 | `docs/ejecucion.md` | Salida de la ejecucion del prototipo e interpretacion |
+| `docs/entrega_final.md` | Documento final de entrega con todos los requisitos documentados |
 | `src/prototype.py` | Prototipo en Python que simula los componentes y su comunicacion |
 | `src/requirements.txt` | Dependencias del prototipo |
 
