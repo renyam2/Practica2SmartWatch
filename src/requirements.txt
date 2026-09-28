@@ -1,0 +1,2 @@
+# Sin dependencias externas: el prototipo usa solo la biblioteca estandar de Python.
+# Requisito: Python 3.9 o superior.
